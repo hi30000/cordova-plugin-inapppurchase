@@ -1,3 +1,7 @@
+# 변경사항
+InAppBillingV3.java 에서 반드시 www/manifest.json을 public/manifest.json으로 변경해주어야야 한다.
+ 
+ 
 # cordova-plugin-inapppurchase 📱💰
 
 [![Build Status](https://travis-ci.org/AlexDisler/cordova-plugin-inapppurchase.svg?branch=master)](https://travis-ci.org/AlexDisler/cordova-plugin-inapppurchase)
